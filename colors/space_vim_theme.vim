@@ -657,7 +657,7 @@ hi DiffAdd ctermfg=70 ctermbg=231 guifg=#67b11d guibg=#fbf8ef guisp=NONE cterm=N
 hi DiffChange ctermfg=166 ctermbg=231 guifg=#b46843 guibg=#fbf8ef guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi DiffDelete ctermfg=196 ctermbg=231 guifg=#f2241f guibg=#fbf8ef guisp=NONE cterm=NONE,reverse gui=NONE,reverse
 hi DiffText ctermfg=136 ctermbg=231 guifg=#b1951d guibg=#fbf8ef guisp=NONE cterm=NONE,reverse gui=NONE,reverse
-hi Directory ctermfg=32 ctermbg=NONE guifg=#3a81c3 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+hi Directory ctermfg=32 ctermbg=NONE guifg=#3a81c3 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi EndOfBuffer ctermfg=231 ctermbg=NONE guifg=#fbf8ef guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Error ctermfg=196 ctermbg=231 guifg=#f2241f guibg=#fbf8ef guisp=NONE cterm=NONE,bold,reverse gui=NONE,bold,reverse
 hi ErrorMsg ctermfg=231 ctermbg=196 guifg=#fbf8ef guibg=#f2241f guisp=NONE cterm=NONE gui=NONE
@@ -704,7 +704,7 @@ hi Delimiter ctermfg=73 ctermbg=NONE guifg=#74baac guibg=NONE guisp=NONE cterm=N
 hi Error ctermfg=196 ctermbg=231 guifg=#f2241f guibg=#fbf8ef guisp=NONE cterm=NONE,bold,reverse gui=NONE,bold,reverse
 hi Exception ctermfg=196 ctermbg=NONE guifg=#f2241f guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Float ctermfg=147 ctermbg=NONE guifg=#b7b7ff guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi Function ctermfg=89 ctermbg=NONE guifg=#6c3163 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+hi Function ctermfg=89 ctermbg=NONE guifg=#86589e guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
 hi Identifier ctermfg=61 ctermbg=NONE guifg=#715ab1 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Ignore ctermfg=fg ctermbg=NONE guifg=fg guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Include ctermfg=136 ctermbg=NONE guifg=#b1951d guibg=NONE guisp=NONE cterm=NONE gui=NONE
@@ -713,7 +713,7 @@ hi Label ctermfg=161 ctermbg=NONE guifg=#ba2f59 guibg=NONE guisp=NONE cterm=NONE
 hi Macro ctermfg=61 ctermbg=NONE guifg=#715ab1 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
 hi Number ctermfg=176 ctermbg=NONE guifg=#e697e6 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Operator ctermfg=74 ctermbg=NONE guifg=#58b0d9 guibg=NONE guisp=NONE cterm=NONE gui=NONE
-hi PreCondit ctermfg=53 ctermbg=NONE guifg=#4e3163 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi PreCondit ctermfg=53 ctermbg=NONE guifg=#86589e guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi PreProc ctermfg=97 ctermbg=NONE guifg=#86589e guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi Repeat ctermfg=161 ctermbg=NONE guifg=#ba2f59 guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
 hi SpecialChar ctermfg=37 ctermbg=NONE guifg=#21b8c7 guibg=NONE guisp=NONE cterm=NONE gui=NONE
