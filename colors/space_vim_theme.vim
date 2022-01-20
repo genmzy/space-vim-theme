@@ -1243,6 +1243,7 @@ if get(g:, "space_vim_filetype_hi_groups", 1)
 endif
 hi StatusLineNC ctermfg=189 ctermbg=255 guifg=#d3d3e7 guibg=#efeae9 guisp=NONE cterm=NONE gui=NONE
 hi Visual ctermfg=NONE ctermbg=254 guifg=NONE guibg=#e3dedd guisp=NONE cterm=NONE gui=NONE
+hi link goVarDefs DiagnosticWarn
 finish
 
 " Color: neutralred        #d26487    ~
