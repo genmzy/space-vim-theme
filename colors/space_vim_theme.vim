@@ -632,6 +632,12 @@ if &background ==# 'dark'
   finish
 endif
 
+highlight! link CocPumSearch Float
+highlight! CocPumSearch ctermfg=32 ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE cterm=NONE,bold gui=NONE,bold
+"highlight! link CocPumMenu Float
+highlight! link CocPumShortcut Grey
+highlight! link CocPumVirtualText LineNr
+
 let g:terminal_ansi_colors = [
       \ '#fbf8ef', '#d26487', '#35a8a5', '#b89f33', '#6981c5', '#a15ea7', '#288668', '#504259',
       \ '#a8a4ae', '#f2241f', '#67b11d', '#b1951d', '#3a81c3', '#6c3163', '#24775c', '#655370']
