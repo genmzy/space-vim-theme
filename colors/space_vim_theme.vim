@@ -637,6 +637,7 @@ highlight! CocPumSearch ctermfg=32 ctermbg=NONE guifg=NONE guibg=NONE guisp=NONE
 "highlight! link CocPumMenu Float
 highlight! link CocPumShortcut Grey
 highlight! link CocPumVirtualText LineNr
+highlight! link CocInlayHint LineNr
 
 let g:terminal_ansi_colors = [
       \ '#fbf8ef', '#d26487', '#35a8a5', '#b89f33', '#6981c5', '#a15ea7', '#288668', '#504259',
